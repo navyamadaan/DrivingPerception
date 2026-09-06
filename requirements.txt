@@ -1,7 +1,6 @@
--c constraints.txt
-opencv-python-headless==4.10.0.84
+opencv-python-headless
 streamlit
-ultralytics
+ultralytics==8.4.142
 numpy
 timm
 --extra-index-url https://download.pytorch.org/whl/cpu
